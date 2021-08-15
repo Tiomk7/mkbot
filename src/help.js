@@ -1,23 +1,17 @@
 const help = (prefix) => {
 	return `
 <══════════════════════>
-      *CAUSS BOT*
+      *MK7 BOT*
  <══════════════════════>
 
-__█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
-__█▼▼▼▼▼█ 
-_██ᏴϴͲ Ꮩ3.8██▌ 
-__█▲▲▲▲▲█ 
-__█████████ 
-____██_____██
+ ● ᏴϴͲ●ᎷᎬΝႮ●         
 
 ┌─────────❶.❷────────
 ║〘 INFORMAÇÕES 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 *MK7 BOT* 
+╠🐉 𝐃𝐎𝐍𝐎:  ꪶ͢⏤͟͞ꮇꮶ⁷↯⃤ (base dark) 
+╠🐉 *wa.me/+5569974007532*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -222,22 +216,16 @@ ____██_____██
 ║🐊 *bv*
 ║🐊 *canta ai bot*
 ║🐊 *grita*
-║🐊 *causs*
+║🐊 *MK*
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 ꪶ͢⏤͟͞ꮇꮶ⁷↯⃤ NO CONTROLE 〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
-║ *YOUTUBE: https://youtube.com/c/caussZ*
+║ *NOME: ꪶ͢⏤͟͞ꮇꮶ⁷↯⃤*
+
 ║
-║  *"base do lindo (DARK BOT 4.0)🐊🚩*
-║  *"kiba não xereka"*
-║  *Número do dark: wa.me/+5522996215481
-║
-╚═〘 CAUSS BOT 〙`
+╚═〘 MK7 BOT 〙`
 }
 
 exports.help = help
